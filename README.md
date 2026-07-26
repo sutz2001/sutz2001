@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminal.gif" alt="Terminal" width="580">
+  <img src="https://raw.githubusercontent.com/sutz2001/sutz2001/main/terminal.gif?v=20260726-1" alt="Terminal" width="580">
 </p>
 
 ## 📊 GitHub Analytics
