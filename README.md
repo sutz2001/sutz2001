@@ -109,10 +109,8 @@
 <br/>
 
 <p align="center">
-  
-### 🔥 Streak Stats
-
-<picture>
+  <h3>🔥 Streak Stats</h3>
+  <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=sutz2001&theme=dark&hide_border=true&background=1E1E1E&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF"
