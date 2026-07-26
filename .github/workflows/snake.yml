@@ -2,22 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: sutz2001
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin output 2>/dev/null || git checkout --orphan output
+          git checkout output 2>/dev/null || git checkout --orphan output
+          cp -r dist/* .
+          git add .
+          git commit -m "Update snake SVG [skip ci]" || true
+          git push origin output

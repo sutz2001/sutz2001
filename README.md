@@ -1,51 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: none; padding: 0;">
-        <div style="background: #1e1e1e; border-radius: 8px; padding: 0; width: 580px; font-family: 'SF Mono', 'Fira Code', 'Menlo', monospace; font-size: 14px; color: #d4d4d4; box-shadow: 0 8px 32px rgba(0,0,0,0.3); overflow: hidden; margin: 0 auto;">
-          <!-- macOS Traffic Lights -->
-          <div style="background: #2d2d2d; padding: 10px 14px; display: flex; align-items: center; border-bottom: 1px solid #3c3c3c;">
-            <div style="display: flex; gap: 8px;">
-              <div style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f57; display: inline-block;"></div>
-              <div style="width: 12px; height: 12px; border-radius: 50%; background: #febc2e; display: inline-block;"></div>
-              <div style="width: 12px; height: 12px; border-radius: 50%; background: #28c840; display: inline-block;"></div>
-            </div>
-            <div style="margin: 0 auto; font-size: 12px; color: #999; font-family: -apple-system, system-ui, sans-serif;">~/profile — bash</div>
-          </div>
-          <!-- Terminal Content -->
-          <div style="padding: 16px 18px; text-align: left; line-height: 1.7;">
-            <div><span style="color: #6a9955;"># Marc — @sutz2001</span></div>
-            <div><span style="color: #569cd6;">export</span> ROLE=<span style="color: #ce9178;">"Business Intelligence Manager · Product Owner · Data & AI Architect"</span></div>
-            <div><span style="color: #569cd6;">export</span> FOCUS=<span style="color: #ce9178;">"Data, AI & Analytics Leadership for digital transformation"</span></div>
-            <div><span style="color: #569cd6;">export</span> STACK=(<span style="color: #ce9178;">"SQL" "JavaScript/TypeScript" "Python" "Home Assistant"</span>)</div>
-            <br/>
-            <div><span style="color: #c586c0;">function</span> <span style="color: #dcdcaa;">work_on</span>() {</div>
-            <div>&nbsp;&nbsp;echo <span style="color: #ce9178;">"Cloud Data Platforms (Azure, Fabric, SAP)"</span></div>
-            <div>&nbsp;&nbsp;echo <span style="color: #ce9178;">"AI & GenAI initiatives"</span></div>
-            <div>&nbsp;&nbsp;echo <span style="color: #ce9178;">"Home automation tinkering"</span></div>
-            <div>}</div>
-            <br/>
-            <div><span style="color: #6a9955;"># Fun facts</span></div>
-            <div><span style="color: #569cd6;">const</span> funFacts = [</div>
-            <div>&nbsp;&nbsp;<span style="color: #ce9178;">"Coffee enthusiast — powered by caffeine"</span>,</div>
-            <div>&nbsp;&nbsp;<span style="color: #ce9178;">"Can-Opener (for cats, obviously)"</span>,</div>
-            <div>&nbsp;&nbsp;<span style="color: #ce9178;">"Home Assistant addict"</span></div>
-            <div>];</div>
-            <br/>
-            <div>
-              <span style="color: #6a9955;">></span>
-              <span style="color: #569cd6;"> ./connect.sh --linkedin</span>
-              <span style="margin-left: 8px;"><a href="https://www.linkedin.com/in/seitzmarc/" style="color: #00F7FF; text-decoration: none;">linkedin.com/in/seitzmarc</a></span>
-            </div>
-            <div style="margin-top: 4px;"><span style="color: #6a9955;">></span> <span style="display: inline-block; width: 8px; height: 16px; background: #00F7FF; vertical-align: middle;"></span></div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="terminal.svg" alt="Terminal" width="580" style="max-width: 100%;">
 
 </div>
 
