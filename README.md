@@ -110,6 +110,9 @@
 
 <p align="center">
   <h3>🔥 Streak Stats</h3>
+</p>
+
+<p align="center">
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
