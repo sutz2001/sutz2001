@@ -1,6 +1,27 @@
 <div align="center">
 
-<img src="terminal.svg" alt="Terminal" width="580" style="max-width: 100%;">
+<pre style="background: #1e1e1e; color: #d4d4d4; border-radius: 8px; padding: 16px 20px; font-family: 'SF Mono', 'Fira Code', 'Menlo', monospace; font-size: 14px; line-height: 1.7; text-align: left; max-width: 580px; margin: 0 auto; border: 1px solid #3c3c3c; box-shadow: 0 8px 32px rgba(0,0,0,0.3); overflow-x: auto;">
+<span style="color: #6a9955;"># Marc — @sutz2001</span>
+<span style="color: #569cd6;">export</span> <span style="color: #6a9955;">ROLE</span>=<span style="color: #ce9178;">"Business Intelligence Manager · Product Owner · Data & AI Architect"</span>
+<span style="color: #569cd6;">export</span> <span style="color: #6a9955;">FOCUS</span>=<span style="color: #ce9178;">"Data, AI & Analytics Leadership for digital transformation"</span>
+<span style="color: #569cd6;">export</span> <span style="color: #6a9955;">STACK</span>=(<span style="color: #ce9178;">"SQL" "JavaScript/TypeScript" "Python" "Home Assistant"</span>)
+
+<span style="color: #c586c0;">function</span> <span style="color: #dcdcaa;">work_on</span>() {
+  echo <span style="color: #ce9178;">"Cloud Data Platforms (Azure, Fabric, SAP)"</span>
+  echo <span style="color: #ce9178;">"AI & GenAI initiatives"</span>
+  echo <span style="color: #ce9178;">"Home automation tinkering"</span>
+}
+
+<span style="color: #6a9955;"># Fun facts</span>
+<span style="color: #569cd6;">const</span> <span style="color: #6a9955;">funFacts</span> = [
+  <span style="color: #ce9178;">"Coffee enthusiast — powered by caffeine"</span>,
+  <span style="color: #ce9178;">"Can-Opener (for cats, obviously)"</span>,
+  <span style="color: #ce9178;">"Home Assistant addict"</span>
+];
+
+> <span style="color: #569cd6;">./connect.sh --linkedin</span>  <a href="https://www.linkedin.com/in/seitzmarc/" style="color: #00F7FF;">linkedin.com/in/seitzmarc</a>
+> <span style="background: #00F7FF; display: inline-block; width: 10px; height: 18px; vertical-align: middle;"></span>
+</pre>
 
 </div>
 
@@ -98,23 +119,24 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sutz2001/sutz2001/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=react-dark&hide_border=true&area=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sutz2001/sutz2001/output/github-contribution-grid-snake.svg"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
   />
   <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sutz2001/sutz2001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
   />
 </picture>
 
+<br/>
 <br/>
 
 <div align="center">
