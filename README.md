@@ -27,119 +27,111 @@
 
 ## 📊 GitHub Analytics
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github"
-  />
-  <img
-    alt="GitHub Profile Summary"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github"
+    />
+    <img
+      alt="GitHub Profile Summary"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutz2001&theme=github"
+    />
+  </picture>
+</p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github"
+    />
+    <img
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github"
+    />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github"
+    />
+    <img
+      alt="Top Languages by Repo"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github"
+    />
+  </picture>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github_dark"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github"
-          />
-          <img
-            alt="GitHub Stats"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutz2001&theme=github"
-          />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github_dark"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github"
-          />
-          <img
-            alt="Top Languages by Repo"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sutz2001&theme=github"
-          />
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github_dark"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github"
-          />
-          <img
-            alt="Most Commit Language"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github"
-          />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github_dark&utcOffset=2"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github&utcOffset=2"
-          />
-          <img
-            alt="Productive Time"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github&utcOffset=2"
-          />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github"
+    />
+    <img
+      alt="Most Commit Language"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutz2001&theme=github"
+    />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github_dark&utcOffset=2"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github&utcOffset=2"
+    />
+    <img
+      alt="Productive Time"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sutz2001&theme=github&utcOffset=2"
+    />
+  </picture>
+</p>
 
 <br/>
 
 ## 📈 Activity Graph
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=react-dark&hide_border=true&area=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
-  />
-  <img
-    alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=react-dark&hide_border=true&area=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
+    />
+    <img
+      alt="GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sutz2001&theme=minimal&hide_border=true&area=true"
+    />
+  </picture>
+</p>
 
 <br/>
-<br/>
 
-<div align="center">
+<p align="center">
   
 ### 🔥 Streak Stats
 
@@ -174,4 +166,4 @@
 
 From [sutz2001](https://github.com/sutz2001)
 
-</div>
+</p>
