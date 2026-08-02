@@ -1,6 +1,5 @@
 ---
-description: Conventions for the sutz2001 GitHub profile README repo
-alwaysApply: true
+applyTo: "**"
 ---
 
 # GitHub Profile Repo (`sutz2001/sutz2001`)
@@ -19,8 +18,8 @@ Do not leave Cursor and Copilot guidance diverging. Prefer identical substance; 
 
 ## Active profile surface
 
-- [`README.md`](README.md) — profile content only; keep it short
-- [`assets/about-mac.svg`](assets/about-mac.svg) — System 7 style header (hero brand)
+- `README.md` — profile content only; keep it short
+- `assets/about-mac.svg` — System 7 style header (hero brand)
 
 Do not reintroduce third-party stats cards, streak widgets, activity graphs, or visitor counters. They break often and are not official GitHub features. The native contribution graph on the profile page is enough.
 
@@ -39,8 +38,8 @@ Do not reintroduce third-party stats cards, streak widgets, activity graphs, or 
 
 ## Archive / legacy
 
-- [`archive/README.pre-mac-header.md`](archive/README.pre-mac-header.md) — previous card-based README
-- [`archive/legacy-terminal/`](archive/legacy-terminal/) — old gifos terminal generator (unused)
+- `archive/README.pre-mac-header.md` — previous card-based README
+- `archive/legacy-terminal/` — old gifos terminal generator (unused)
 
 Do not wire `generate_terminal.py`, `terminal.gif`, or `GITHUB_TOKEN_SETUP.md` back into the live README unless explicitly requested.
 
