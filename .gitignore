@@ -1,0 +1,10 @@
+# Secrets / local env
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local generator leftovers
+output.gif
+.DS_Store
