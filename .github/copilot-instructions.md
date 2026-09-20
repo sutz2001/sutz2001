@@ -39,6 +39,18 @@ Do not reintroduce third-party stats cards, streak widgets, activity graphs, or 
 
 Do not wire `generate_terminal.py`, `terminal.gif`, or `GITHUB_TOKEN_SETUP.md` back into the live README unless explicitly requested.
 
+
+## Markitdown
+
+**Markitdown** ([microsoft/markitdown](https://github.com/microsoft/markitdown)) is installed/available for converting Office, PDF, and HTML to Markdown.
+
+- **CLI:** `markitdown`
+- **OCR plugins** are enabled — use for scanned PDFs when needed (e.g. DKB Belege)
+- Prefer Markitdown over ad-hoc PDF text extraction when converting docs to Markdown for analysis
+- Do not commit secrets from converted bank PDFs into git
+
+Cursor rule: `.cursor/rules/markitdown.mdc`
+
 ## Secrets and ignore rules
 
 - Never commit `.env`, `.venv/`, or tokens
